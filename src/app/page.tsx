@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-            Save and see your changes instantly. - NextJS-firebase3
+            Save and see your changes instantly. - NextJS-firebase3 - new build
           </li>
         </ol>
 
