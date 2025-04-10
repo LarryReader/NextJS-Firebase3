@@ -5,7 +5,7 @@ import { initFirebase } from "../../firebase/firebaseApp";
 
 export default function SignInButton() {
   // Initialize firebase
-  const app = initFirebase();
+ // const app = initFirebase();
   const provider = new GoogleAuthProvider();
   const auth = getAuth();
 
